@@ -1,1 +1,3 @@
 # fakeAPI
+
+npm start
