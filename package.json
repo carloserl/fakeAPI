@@ -1,10 +1,10 @@
 {
-  "name": "fakeAPI",
+  "name": "fakeapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "json-server --port 3000 --watch  db.json"
   },
   "author": "",
   "license": "ISC"

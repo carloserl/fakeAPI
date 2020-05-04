@@ -59,7 +59,7 @@
   ],
   "users": [
     {
-      "user": "master",
+      "user": "master123",
       "name": "bbbbbbb",
       "lastname": "123123",
       "password": "123123",
@@ -83,20 +83,28 @@
       "id": "09a0e97a-7009-43f0-8224-610fd514ba0a"
     },
     {
-      "user": "pppppppppppppp",
-      "name": "pppppppppp",
-      "lastname": "pppppppppppppp",
-      "password": "pppppppppppp",
+      "user": "ddd",
+      "name": "ddd",
+      "lastname": "dddd",
+      "password": "123456",
       "idgroup": 1,
-      "id": "fe4994ee-285f-4dd3-8415-29a636a36ec3"
+      "id": "5fd38e09-c9be-46b6-9c5f-6950ae40bbdc"
     },
     {
-      "user": "wwwwwwwwwww",
-      "name": "wwwwwwwwww",
-      "lastname": "wwwwwwwwww",
-      "password": "wwwwwwwwwwwwww",
+      "user": "aaaa",
+      "name": "aaaa",
+      "lastname": "aaaa",
+      "password": "123456",
       "idgroup": 1,
-      "id": "d14b9196-50fc-4f9e-a1e1-4deb1d48be96"
+      "id": "1189eeed-ad1d-499e-95f6-7419b7d871b7"
+    },
+    {
+      "user": "pppppp",
+      "name": "ppppp",
+      "lastname": "ppppp",
+      "password": "ppppp",
+      "idgroup": 1,
+      "id": "7ead5ea1-fa94-46ab-9c10-f57957639ac1"
     }
   ],
   "groups": [
